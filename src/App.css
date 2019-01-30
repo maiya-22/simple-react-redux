@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 10rem;
+  width: 15rem;
+  margin: auto;
+  padding: 1rem;
+  border: solid gray 5px;
+}
+
+.counter-frame {
+  width: 10rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  margin: auto;
+}
+.button {
+  border: dotted gray 1px;
+  padding: 1rem;
+}
+
+.count {
+  border: solid black 1px;
+  padding: 1rem;
+}
